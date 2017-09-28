@@ -55,6 +55,17 @@ private void setupCalendar(HorizontalScrollWeek horizontalScrollWeek, ViewPager 
                         .setup(pager);
 }
 ```
+Attribute
+-------
+|Attribute|Description|Format
+|:---:|:---:|:---:|
+|hsw_normal_text_color|Text color of normal day|color
+|hsw_selected_text_color|Text color of selected day|color
+|hsw_week_text_size|Text size of the week view|dimension
+|hsw_day_text_size|Text size of the day view|dimension
+|hsw_show_today_on_day|Is show 'today' on the day view|boolean
+|hsw_indicator_color|The color of indicator|color
+
 Thanks
 -------
 [JodaTime](https://github.com/JodaOrg/joda-time): Joda-Time is the widely used replacement for the Java date and time classes prior to Java SE 8.
@@ -75,3 +86,5 @@ License
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+
