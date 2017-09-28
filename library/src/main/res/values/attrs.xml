@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HorizontalScrollWeek">
+        <attr name="hsw_normal_text_color" format="color" />
+        <attr name="hsw_selected_text_color" format="color" />
+        <attr name="hsw_week_text_size" format="dimension" />
+        <attr name="hsw_day_text_size" format="dimension" />
+        <attr name="hsw_show_today_on_day" format="boolean" />
+        <attr name="hsw_indicator_color" format="color" />
+        <attr name="hsw_size" format="enum">
+            <enum name="small" value="1" />
+            <enum name="normal" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>
