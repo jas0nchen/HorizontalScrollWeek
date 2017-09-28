@@ -2,7 +2,7 @@
 An Android library about simple horizontal scrollable week calendar.
 
 ## ScreenShots
-![](http://github.com/jas0nchen/horizontalscrollweek/raw/master/art/screen-record.gif)
+![](https://raw.githubusercontent.com/jas0nchen/horizontalscrollweek/master/art/screen_record.gif)
 
 ## Get started
 

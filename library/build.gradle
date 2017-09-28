@@ -37,6 +37,6 @@ publish {
     groupId = 'io.github.jas0nchen'
     artifactId = 'horizontalscrollweek'
     publishVersion = '0.1.0'
-    desc = 'A horizontal scollable week calendar library.'
+    desc = 'A horizontal scollable week calendar library for Android.'
     website = 'https://github.com/jas0nchen/horizontalscrollweek'
 }
